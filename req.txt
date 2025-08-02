@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+streamlit
+fastapi
+uvicorn
+pydantic
+requests
+newspaper3k
+transformers
+torch
+beautifulsoup4
+tiktoken
