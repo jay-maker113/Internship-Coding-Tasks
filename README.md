@@ -1,6 +1,6 @@
 #Jay Vagadia
 
-#git clone https://github.com/jay-maker113/Internship-Coding-Tasks.git
+#git clone https://github.com/jay-maker113/api-projects.git
 #cd Internship-Coding-Tasks
 #pip install -r req.txt
 
