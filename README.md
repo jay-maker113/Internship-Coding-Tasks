@@ -1,8 +1,4 @@
-#Internship-Coding-Tasks - Jay Vagadia
-
-#For Vovance Private Limited Ahmedabad
-
-#Hello Vovance
+#Jay Vagadia
 
 #git clone https://github.com/jay-maker113/Internship-Coding-Tasks.git
 #cd Internship-Coding-Tasks
